@@ -3,7 +3,7 @@ using System.Security;
 
 namespace EigenCore.Eigen
 {
-    internal static unsafe class ThunkDenseEigen
+    public static unsafe class ThunkDenseEigen
     {
         internal const string NativeThunkEigenPath = "eigen_core";
 

@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 
 namespace EigenCore.Eigen
 {
-    internal static class EigenDenseUtilities
+    public static class EigenDenseUtilities
     {
         #region Vectors
 

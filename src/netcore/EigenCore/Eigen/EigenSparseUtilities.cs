@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 
 namespace EigenCore.Eigen
 {
-    internal class EigenSparseUtilities
+    public class EigenSparseUtilities
     {
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
         public static bool SolveConjugateGradient(
